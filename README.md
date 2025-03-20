@@ -1,2 +1,4 @@
-# C-digo-
-&lt;>head(murders)&lt;>data(murders)&lt;
+<# Código
+<>head(murders)
+<>data(murders)
+<
